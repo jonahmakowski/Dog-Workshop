@@ -1,7 +1,7 @@
 # Dog-Workshop
 This is Noah's repo
 
-## All files here are:
+## All files here are
 Python files are written by Noah, possibly with help from Jonah.
 
 All of them are based on python.
