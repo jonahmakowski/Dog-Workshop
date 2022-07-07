@@ -26,4 +26,5 @@ while True:
         score = score + 1
     else:
         print("you lose")
-    print(score)
+        score = score - 1
+    print('score:', score)
