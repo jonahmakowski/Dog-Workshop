@@ -11,7 +11,7 @@ elif name == 'Jonah':
     print
     print ('hi Jonah')
     print  ('Hi')
-    printKe ('how are you')
+    print ('how are you')
 elif name == 'Keyu':
     print('hi Keyu')
     print('hi')
